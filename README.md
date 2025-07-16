@@ -21,11 +21,11 @@
 ---
 
 ## 📌 About Me
-- 🔭 I’m currently working on Movie Recommendation System
-- 🌱 I’m currently learning Ai Model Training , Integration & Implementation
-- 👯 I’m looking to collaborate on Train a Tiny LLM
+- 🔭 I’m currently working on **Movie Recommendation System**
+- 🌱 I’m currently learning **Ai Model Training , Integration & Implementation**
+- 👯 I’m looking to collaborate on **Train a Tiny LLM**
 - 💬 Ask me about **Web Dev, React, Node.js**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: sarkarpritam257@gmail.com
 
 ---
 
