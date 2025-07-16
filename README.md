@@ -3,14 +3,16 @@
 
 ---
 
-## 🧰 Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-<!-- Add more badges for tools/technologies you use -->
+## 🧰 Most Used Languages & GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-sarkar&layout=compact&langs_count=10&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pritam-sarkar&show_icons=true&theme=radical" width="45%"/>
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pritam-sarkar&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="45%"/>
+</p>
+
 
 ## 📈 GitHub Stats
 <p align="center">
