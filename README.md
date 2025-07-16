@@ -3,14 +3,25 @@
 
 ---
 
-## 🧰 Most Used Languages & GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-sarkar&layout=compact&langs_count=10&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=pritam-sarkar&show_icons=true&theme=radical" width="45%"/>
-</p>
+## 🧰 Used Languages & Tools
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pritam-sarkar&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="45%"/>
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+
+  <!-- Frameworks & Libraries -->
+  <br />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
 </p>
 
 
@@ -20,9 +31,6 @@
   <img src="https://streak-stats.demolab.com?user=pritam-sarkar&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="45%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-sarkar&layout=compact&theme=radical" width="45%"/>
-</p>
 
 ---
 
