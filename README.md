@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Pritam Sarkar
 ### 🚀 Full Stack Developer | 🌐 Open Source Enthusiast | 🎓 Final Year CSE Student
 
 ---
@@ -21,9 +21,9 @@
 ---
 
 ## 📌 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Tech you're learning]**
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🔭 I’m currently working on Movie Recommendation System
+- 🌱 I’m currently learning Ai Model Training , Integration & Implementation
+- 👯 I’m looking to collaborate on Train a Tiny LLM
 - 💬 Ask me about **Web Dev, React, Node.js**
 - 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
 
