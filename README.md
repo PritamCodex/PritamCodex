@@ -34,6 +34,16 @@
 
 ---
 
+### 🌐 Live Website – PriPad
+  🚀 Experience PriPad live here:
+  👉 [https://your-live-site-link.com](https://pripad.onrender.com/) [takes a mint to active]
+
+PriPad is a minimal and collaborative notes-sharing web app where:
+  📝 Users can create notes.
+  🌍 Everyone else can view them in real-time.
+  📡 All data is synced using a common backend (MongoDB).
+  Built with the MERN stack (MongoDB, Express, React, Node.js), PriPad demonstrates live data handling, rate limiting, and modern frontend styling.
+
 ## 📌 About Me
 - 🔭 I’m currently working on **Movie Recommendation System**
 - 🌱 I’m currently learning **Ai Model Training , Integration & Implementation**
