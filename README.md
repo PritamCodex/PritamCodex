@@ -36,7 +36,7 @@
 
 ### 🌐 Live Website – PriPad
   🚀 Experience PriPad live here:
-  👉 [https://your-live-site-link.com](https://pripad.onrender.com/) [takes a mint to active]
+  👉 https://pripad.onrender.com [takes a minute to activate]
 
 PriPad is a minimal and collaborative notes-sharing web app where:
   📝 Users can create notes.
